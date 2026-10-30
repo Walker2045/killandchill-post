@@ -3,3 +3,5 @@ Test del pubblico (revisore indipendente): 1ª idea 3 SÌ/2 NO; versione rivista
 Revisione grafica finale: copertina 10, gancio slide 2 10, italiano 10; 9 a leggibilità fonti (template), zone sicure (bottone slide 2 su TikTok), ultima slide (modello obbligatorio), didascalia (regola hashtag), confronto big; 8 immagini (Batman poco nitido e non mostra la caduta).
 Fatti: Talos (PC Gamer, Game Informer) · Game Dev Tycoon 93,6% pirati (Engadget, PCWorld) · Batman glide confermato da Eidos (bit-tech, PCWorld) · Sims 4 pixel (bit-tech, PCWorld; non confermato ufficialmente da EA, per questo non scritto "confermato") · EarthBound (PCWorld, GamingBolt).
 Dal profilo (LEZIONI.md): curiosità di giochi famosi > cronaca; liste = più salvate.
+Metricool: preparato come BOZZA (draft true, non esce da solo) per le 13:00 — carosello IG id 410958868, storia IG 13:02 id 410958894, video TikTok id 410958988.
+Nota tecnica: Metricool rifiuta autoAddMusic=true sui video TikTok ("solo per immagini e caroselli"): per i video va messo false.
