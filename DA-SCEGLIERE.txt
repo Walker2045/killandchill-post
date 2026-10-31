@@ -9,3 +9,4 @@
 31/10/2026 Halloween v2: grafica finale caricata (finale/), nuovi id Metricool: carosello 412097363, storia 412097374, sempre 18:00/18:02.
 31/10/2026 Halloween v2: grafica senza bagliore (finale2/), id Metricool carosello 412100696, storia 412100704, 18:00/18:02.
 31/10/2026 SOSTITUITO alle 18:00: ora esce "Non giocare a questi giochi di notte" (pubblicati/2026-10-31-mezzanotte) – IG carosello 412112741 + storia 412112757. "Infanzia" v2 non esce più.
+31/10/2026 NUOVO FORMATO "un solo fatto assurdo" (richiesta utente: niente notizie quotidiane). Eternal Darkness salvataggi finti – IG carosello 16:00 + storia 16:02. FNAF nato da una recensione cattiva – IG carosello 18:30 + storia 18:32, sostituisce "Non giocare a questi giochi di notte".
