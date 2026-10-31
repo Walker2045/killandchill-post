@@ -8,3 +8,4 @@
 31/10/2026 SPECIALE HALLOWEEN v2 PROGRAMMATO (rifatto su richiesta dell'utente, esce da solo): "La tua infanzia nascondeva 5 incubi" v2 – IG carosello 18:00 (id 412094858) + storia 18:02 (id 412094871) (pubblicati/2026-10-31-halloween-infanzia-v2). Revisore finale 8,6/10. La versione delle 12:33 la toglie l'utente dall'app (Metricool non può cancellare post già usciti).
 31/10/2026 Halloween v2: grafica finale caricata (finale/), nuovi id Metricool: carosello 412097363, storia 412097374, sempre 18:00/18:02.
 31/10/2026 Halloween v2: grafica senza bagliore (finale2/), id Metricool carosello 412100696, storia 412100704, 18:00/18:02.
+31/10/2026 SOSTITUITO alle 18:00: ora esce "Non giocare a questi giochi di notte" (pubblicati/2026-10-31-mezzanotte) – IG carosello 412112741 + storia 412112757. "Infanzia" v2 non esce più.
